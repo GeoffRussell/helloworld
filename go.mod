@@ -1,4 +1,4 @@
-module github.com/GeoffRussell/helloWorld
+module github.com/GeoffRussell/helloworld
 
 go 1.24.3
 
